@@ -6,7 +6,7 @@
     %S: nada
 %  2021-08-13 - Mat Troncoso Villar (matro1432@gmail.com)
 function S = aseo(nada)
-  close;
+  close all;
   evalin('base','clear');
   clc;
 end
