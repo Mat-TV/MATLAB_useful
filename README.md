@@ -9,3 +9,5 @@ reordigi.m: Allows you to take your year x month (Nx13) data to a single column 
 campo.m: Template to quiver a vectorial field easily.
 
 guardarmatriz.m: Sorts a matrix. Saves the matrix.
+
+aseo.m: Cleans the worspace, the command window and closes all figures instantly.
