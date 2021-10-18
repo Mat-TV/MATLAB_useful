@@ -1,4 +1,4 @@
-# MATLAB_usefull
+# MATLAB_useful
 Usefull tools I have created to MATLAB (and maybe Octave) and functions specified to mathematical and data programming.
 
 
