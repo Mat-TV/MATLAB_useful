@@ -9,7 +9,7 @@ function han = m_cplot(varargin)
 %
 
 % Deirdre Byrne, dbyrne@umeoce.maine.edu 00/07/27 (v1.1)
-%
+% Matías Troncoso Villar, matro1432@gmail.com 22/05/05
 % This software is provided "as is" without warranty of any kind.
 
 global MAP_PROJECTION MAP_VAR_LIST
